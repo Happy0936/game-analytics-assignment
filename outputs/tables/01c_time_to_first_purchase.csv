@@ -1,0 +1,9 @@
+bucket,n_players,pct_of_payers
+0 (day of install),638,5.8
+1 day,471,4.3
+2-3 days,727,6.6
+4-7 days,1211,11.1
+8-14 days,1337,12.2
+15-30 days,1842,16.8
+31-60 days,1669,15.3
+60+ days,3049,27.9

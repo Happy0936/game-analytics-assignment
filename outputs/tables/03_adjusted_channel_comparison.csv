@@ -1,0 +1,2 @@
+comparison,adjusted_paid_video,adjusted_paid_social,adjusted_difference,ci_lower,ci_upper
+paid_video - paid_social,1.8957919112360593,1.8325817668681013,0.06321014436795802,-0.2243129933555046,0.35821353806849165
